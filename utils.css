@@ -52,6 +52,7 @@
     flex-direction: column;
 }
 .row input{
+    height:40px;
     padding: 5px 22px;
     border: 1px solid;
     border-radius: 8px;
